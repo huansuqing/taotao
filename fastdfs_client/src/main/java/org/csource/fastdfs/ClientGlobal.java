@@ -28,7 +28,7 @@ public class ClientGlobal
 	public static String g_secret_key;   //generage token secret key
 	public static TrackerGroup g_tracker_group;
 	
-	public static final int DEFAULT_CONNECT_TIMEOUT = 5;  //second
+	public static final int DEFAULT_CONNECT_TIMEOUT = 5;  //second222
 	public static final int DEFAULT_NETWORK_TIMEOUT = 30; //second
 	
 	private ClientGlobal()
