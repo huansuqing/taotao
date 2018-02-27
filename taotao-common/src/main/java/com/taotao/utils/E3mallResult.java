@@ -57,6 +57,7 @@ public class E3mallResult implements Serializable{
 
 //    public Boolean isOK() {
 //        return this.status == 200;
+ //   1111111
 //    }
 
     public Integer getStatus() {
